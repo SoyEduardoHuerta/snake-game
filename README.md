@@ -35,4 +35,4 @@ This project was created for learning purposes.
 
 ## Author
 
-Eduardo Javier Huerta Aguilar
+Eduardo Huerta
